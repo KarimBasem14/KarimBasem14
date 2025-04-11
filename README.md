@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning flutter and am interested in learning more about software engineering and machine learning. 
 - 📫 How to reach me : karimbasem14@gmail.com
 - Some projects I worked on :
-    1. [Chess game in terminal using C](https://github.com/MohamedSRadwan/Chess) : This was a project I worked on with one my friends in college
+    1. [Chess game in terminal using C](https://github.com/MohamedSRadwan/Chess) : This was a project I worked on with one of my friends in college
     2. [Muslim azkar app](https://github.com/KarimBasem14/MuslimAzkarApp) : Muslim azkar app using flutter
 
 
